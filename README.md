@@ -19,3 +19,5 @@ print("Add is ",w)
 print("Difference is ",q)
 print("Product is ",r)
 print("Division is ",v)
+list1=["Pawan","Rakesh","Jaidev"]
+print(list1)
