@@ -6,3 +6,8 @@ temp=a
 a=b
 print(temp)
 print(a)
+a=a-b
+b=a+b
+b=b-a
+print(a)
+print(b)
