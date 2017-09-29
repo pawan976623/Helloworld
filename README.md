@@ -11,3 +11,11 @@ b=a+b
 b=b-a
 print(a)
 print(b)
+w=a+b
+q=a-b
+r=a*b
+v=a/b
+print("Add is ",w)
+print("Difference is ",q)
+print("Product is ",r)
+print("Division is ",v)
